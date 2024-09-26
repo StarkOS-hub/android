@@ -17,7 +17,7 @@
            fetch="https://github.com/"
            sync-c="true"
            sync-j="4"
-           revision="refs/heads/14.0" />
+           revision="14.0" />
 
 
 
